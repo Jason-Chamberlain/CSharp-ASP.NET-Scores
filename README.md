@@ -22,8 +22,6 @@ The "Scores" application is a console-based program that interacts with text fil
 - The total score and average score of the students were computed.
 ### 6. Basic Control Flow
 - Loops and conditional statements were utilized to govern the execution flow of the program.
-### 7. Error Handling (Potential Improvement)
-- Although not explicitly incorporated in this example, error handling mechanisms, such as try-catch blocks, could be added to manage potential exceptions when converting strings to doubles, with the aim of making the program more robust.
 
 ## Conclusion
 The "Scores" application serves as a simple demonstration of core C# and .NET Core concepts, including input/output, file handling, data conversion, and basic control flow. It showcases the capacity to create interactive console applications in C#, utilizing foundational skills in C# and .NET Core, and offers the potential for further improvements and enhancements to handle real-world scenarios and larger datasets.
